@@ -1,0 +1,8 @@
+sync.sh
+*.swp
+.gitattributes
+.ruby-gemset
+gemset
+.env.backup
+config/master.key
+.flowconfig
